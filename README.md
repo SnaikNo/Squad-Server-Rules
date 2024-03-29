@@ -1,0 +1,1 @@
+# Squad-Server-Rules
